@@ -1,7 +1,6 @@
 package main;
 
 import alg.Algorithm;
-import alg.BFS;
 import alg.DFS;
 import base.Graph;
 import graphic.GraphDisplay;
